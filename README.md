@@ -1,4 +1,4 @@
-We prefer you keep your submission private. Please add https://github.com/NetOpWibby and https://github.com/jrizza88 to the repo when you are ready for review.
+We prefer you keep your submission private. Please add [NetOpWibby](https://github.com/NetOpWibby) and [jrizza88](https://github.com/jrizza88) to the repo when you are ready for review.
 
 # Task Selection
 
