@@ -1,4 +1,4 @@
-We prefer you keep your submission private. Please add [NetOpWibby](https://github.com/NetOpWibby) and [jrizza88](https://github.com/jrizza88) to the repo when you are ready for review.
+We prefer you keep your submission private. Please add [NetOpWibby](https://github.com/NetOpWibby), [jrizza88](https://github.com/jrizza88), and [keshiarun01](https://github.com/keshiarun01) to the repo when you are ready for review.
 
 # Task Selection
 
@@ -14,7 +14,7 @@ Choose one of the following tasks to demonstrate your AR/ML engineering skills. 
 
 |                  | Description |
 | ---------------- | :---------- |
-| 3D AR            | Design and implement a UI that enables the end user to select from at least two different 3D head coverings to wear virtually, using the ML model you trained to fit the end user's head. |
+| 3D AR | Design and implement a UI that enables the end user to select from at least two different 3D head coverings to wear virtually, using the ML model you trained to fit the end user's head. |
 | Machine Learning | Design and implement a UI that enables the end user to select from at least two different makeup styles (lipstick, eye shadow, or blush), using the ML model you trained to fit the end user's skin tone. |
 
 ## Deliverables
